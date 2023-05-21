@@ -1,3 +1,5 @@
 hello ini adalah file 1
 ----------------------------
 File ini merupkan catatan awal. by Isa
+File ini merupkan catatan awal. by Isa
+tambahan ketika terdapat perubahan
