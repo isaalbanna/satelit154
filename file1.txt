@@ -1,1 +1,3 @@
 hello ini adalah file 1
+----------------------------
+File ini merupkan catatan awal. by Isa
